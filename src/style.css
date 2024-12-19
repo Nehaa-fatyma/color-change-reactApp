@@ -1,0 +1,14 @@
+button {
+    color: currentColor;
+    border-radius: 23px;
+    border: 2px solid;
+    height: 31px;
+    width: 90px;
+}
+.app_wrap{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
